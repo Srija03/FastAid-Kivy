@@ -1,0 +1,3 @@
+title =Hello
+author=dirk
+orientation=portrait
