@@ -2914,7 +2914,7 @@ ScreenManager:
         padding: [25,0]
     
     Image: 
-        source: "CPR_bébé.png"
+        source: "CPR_bebe.png"
         pos_hint: {"center_x":0.5, "center_y":0.375}
         size_hint_x: 0.55
         size_hint_y:0.55
