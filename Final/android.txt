@@ -1,3 +1,0 @@
-title=Fast Aid
-author=Srija03
-orientation=portrait
